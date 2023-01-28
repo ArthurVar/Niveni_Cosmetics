@@ -1,0 +1,210 @@
+{
+"header": {
+    "link1": "Main",
+    "link2": "Shop",
+    "link3": "About brand",
+    "link4": "Contact"
+  }, 
+  "home": {
+    "new": {
+      "title": "Your skin</br> Your beauty",
+      "text" : "100% natural plant ingredients that effectively moisturize,</br> saturate,</br> prevent damage",
+      "btn": "Open shop"
+    },
+    "collection": {
+      "title": "New collection",
+      "text1": "Face Crem",
+      "text2": "Hand Crem",
+      "text3": "Body Crem",
+      "btn": "Open shop"
+    },
+    "important": {
+      "title": "What is important to us",
+      "text1": "Quality",
+      "text2": "Individual approach",
+      "text3": "'Smart' packaging",
+      "info1": "We use 93% organic certified ingredients that do not harm your health or the environment. Each product undergoes rigorous safety testing at the Oxford Bioscience Lab in England.",
+      "info2": "The formula of Niveni Cosmetics is developed taking into account the individual needs of your skin. Twice a week you can take advantage of a free online consultation, where we will answer all your questions and help you create your personal daily skin care program.",
+      "info3": "Effective protection of your skin starts with the effective protection of the cosmetics you apply to it. Dark purple Miron Glass bottles protect the fragile components of cosmetics and preserve their nutritional properties and durability. No extra packaging, no extra waste."
+    },
+    "team": {
+      "title": "Niveni Dream Team",
+      "text": "Every girl",
+      "info": "Every girl is unique. However, we are similar in a million little things. Niveni looks for these little things and creates beautiful things that emphasize the advantages of every girl.",
+      "more": "More about the brand"
+    }
+  },
+  "shop": {
+    "sortTitle": "Sort by:",
+    "big": "To more",
+    "less": "to less",
+    "discount": "discount",
+    "title": "Shop",
+    "link1": "Main",
+    "link2": "Shop",
+    "all": "All",
+    "crem": "Crem",
+    "shampoo": "Shampoo",
+    "soap": "Soap",
+    "oil": "Oil",
+    "maskScrub":"Mask & Scrub",
+    "discountText": "There are no discounts for this category!",
+    "show": "Show",
+    "from": "from",
+    "product": "products"
+  },
+  "basket": {
+    "title": "Basket",
+    "link1": "Main",
+    "link2": "Basket",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "quantity",
+    "Total": "total",
+    "ticket": "Enter coupon",
+    "useTicket": "Apply Coupon",
+    "updateCart": "Empty the basket",
+    "subtotal": "Subtotal",
+    "sum": "total",
+    "checkout": "Checkout",
+    "basketText": "Your shopping cart is empty !!!"
+
+  },
+  "brands": {
+    "about": {
+      "title": "About brand",
+      "link1": "Main",
+      "link2": "About brand"
+    },
+    "idea": {
+      "title": "Idea and woman",
+      "text": "I have always been fascinated and inspired by the healing powers of Nature. She is the most skillful creator of beauty and, accordingly, has the best means to maintain it. My interest in plant alchemy and the search for harmless effective beauty methods led me to create Niveni Cosmetics. I studied herbology and perfected the art of creating natural skin care products. 100% meets my high requirements. Niveni Cosmetics is the wisdom of nature embodied in exclusive care for your skin.<br></br>Emma Karapetyan, Founder of Niveni Cosmetics"
+    },
+    "magic": {
+      "title": "The magic is in the details",
+      "text": "Effective skin care doesn't have to be complicated. Therefore, we have developed a daily program for you, based on simplicity and the most harmonious combination of products. These three steps to the health and beauty of your skin will take you no more than 45 seconds a day: <br/><br/>⦁Cleansing<br /><br/>⦁Moisturizing<br/><br/>⦁Deep nourishment<br/><br/>Our line includes hydrating, nourishing and protecting products for every skin type and for your individual needs.<br/ ><br/>To make you always unique.",
+      "btn": "Go to the store"
+    }
+  },
+  "contacts": {
+    "crumbs": {
+      "title": "Contacts",
+      "link1": "Main",
+      "link2": "Contacts"
+    },
+    "info": {
+      "tel": "Phone",
+      "eMail": "E-mail",
+      "address": "Address",
+      "street": "Armenia Yerevan"
+    },
+    "form": {
+      "title": "Write to us",
+      "name": "Name",
+      "eMail": "E-mail",
+      "phone": "Enter phone number",
+      "message": "Message",
+      "btn": "Send",
+      "success": "Message sent successfully"
+    }
+  },
+  "order": {
+    "title": "Order Received",
+    "link1": "Main",
+    "link2": "Checkout",
+    "link3": "Order Received",
+    "success": "Order successfully completed",
+    "contact": "We will contact you shortly!",
+    "btn": "Go to Main page"
+  },
+  "checkout": {
+    "title": "Ordering",
+    "link1": "Home",
+    "link2": "Ordering",
+    "buyerTitle": "Buyer data",
+    "buyerName": "Name",
+    "buyerMail": "E-mail",
+    "buyerPhone": "Phone",
+    "orderTitle": "Your order",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "productName": "Product",
+    "inTotal": "In Total",
+    "addressTitle": "Address of the recipient",
+    "country": "Country",
+    "city": "City",
+    "street": "Street",
+    "home": "Home",
+    "flat": "flat",
+    "comments": "Comments",
+    "payment": "Payment Methods",
+    "cash": "Cash payment",
+    "place": "Place an order",
+    "name": "Title",
+    "count": "Quantity",
+    "price": "Price"
+  },
+  "footer": {
+    "defense": "© All rights reserved <br/> Privacy policy <br/> Public offer <br/>"
+  },
+  "profile": {
+    "title": "My account",
+    "btn1": "Order history",
+    "btn2": "Settings",
+    "info": "Personal data",
+    "change": "Change",
+    "cancel": "Cancel",
+    "login": "Login",
+    "phone": "Phone number",
+    "mail": "Mail",
+    "save": "Save Changes",
+    "password": "Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm password",
+    "subscribe": "subscriptions",
+    "receive": "Receive offers and promotions",
+    "profile": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "tel": "Phone",
+    "country": "Country",
+    "city": "City",
+    "street": "Street",
+    "house": "House",
+    "flat": "Flat",
+    "category" : "Category",
+    "inStock": "Quantity",
+    "price": "Price"
+  },
+  "login": {
+    "signin": "Login to your account",
+    "signup": "Sign Up",
+    "text": "Log in to your account using the email address and password provided during registration.",
+    "email": "Email",
+    "password": "Password",
+    "login": "Sign in",
+    "question": "Don't have an account yet?",
+    "homelink": "Return to the homepage",
+    "register": "Registration",
+    "logemail": "Your working email",
+    "logpswd": "Enter password"
+  },
+  "register": {
+    "register": "Register",
+    "text": "Registration takes less than minutes, but it gives you full control over ordering things",
+    "email": "Email",
+    "text1": "Please enter your email",
+    "login": "Login",
+    "text2": "Please enter your login",
+    "phone": "Phone",
+    "text3": "Please enter your phone",
+    "password": "Password",
+    "text4": "Please enter your password",
+    "confirmpsd": "Repeat the password",
+    "text5": "Enter the password again",
+    "register1": "Sign Up",
+    "quest": "Already have an account? ",
+    "signin": "Login",
+    "home": "Return to the main page"
+  }
+}

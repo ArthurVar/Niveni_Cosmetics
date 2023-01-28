@@ -1,0 +1,364 @@
+{
+  "users": [
+    {
+      "email": "vardanyan19_96@mail.ru",
+      "password": "$2a$10$fwyqSW4/9l1KBOL4xuzhTun6YKfQfCHrKB0rxhHX9mHRUHYCu2ITu",
+      "login": "artur",
+      "phone": "+374(12)12-12-12",
+      "confirmPwd": "13246515",
+      "orders": [
+        {
+          "name": "hjghg",
+          "email": "sdf@sfgdfg",
+          "phone": "+374(54)56-46-46",
+          "country": "",
+          "city": "",
+          "street": "",
+          "house": "",
+          "flat": "",
+          "message": "",
+          "cosmetics": [
+            {
+              "id": 5,
+              "title": "crem 5",
+              "imge": "shop/crem5.jpg",
+              "count": 1,
+              "price": 50,
+              "category": "crem"
+            }
+          ],
+          "price": 50,
+          "date": "2023-01-10T11:40:47.200Z"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "avardanyan955@gmail.com",
+      "password": "$2a$10$E4ngb.AiBHulo1mykm3I9uvJbTSN02WbFTt9mnrCUbV2mbz4zbQqW",
+      "login": "admin",
+      "phone": "+374(93)01-36-37",
+      "confirmPwd": "13246515art",
+      "orders": [],
+      "id": 2
+    }
+  ],
+  "cosmetics": [
+    {
+      "id": 1,
+      "title": "crem 1",
+      "price": 100,
+      "imge": "shop/crem1.jpg",
+      "category": "crem",
+      "inStock": 5,
+      "priceSale": 95
+    },
+    {
+      "id": 2,
+      "title": "crem 2",
+      "price": 100,
+      "imge": "shop/crem2.jpg",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 3,
+      "title": "crem 3",
+      "price": 100,
+      "imge": "shop/crem3.jpg",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 4,
+      "title": "crem 4",
+      "price": 100,
+      "imge": "shop/crem4.webp",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 5,
+      "title": "crem 5",
+      "price": 100,
+      "priceSale": 50,
+      "imge": "shop/crem5.jpg",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 6,
+      "title": "crem 6",
+      "price": 100,
+      "imge": "shop/crem6.webp",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 7,
+      "title": "crem 7",
+      "price": 100,
+      "imge": "shop/crem7.webp",
+      "category": "crem",
+      "inStock": 5
+    },
+    {
+      "id": 8,
+      "title": "soap 1",
+      "price": 150,
+      "priceSale": 50,
+      "imge": "shop/soap1.jpg",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 9,
+      "title": "soap 2",
+      "price": 200,
+      "imge": "shop/soap2.jpg",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 10,
+      "title": "soap 3",
+      "price": 80,
+      "imge": "shop/soap3.webp",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 11,
+      "title": "soap 4",
+      "price": 170,
+      "imge": "shop/soap4.jpg",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 12,
+      "title": "soap 5",
+      "price": 110,
+      "imge": "shop/soap5.webp",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 13,
+      "title": "soap 6",
+      "price": 67,
+      "imge": "shop/soap6.jpg",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 14,
+      "title": "soap 7",
+      "price": 100,
+      "imge": "shop/soap7.jpg",
+      "category": "soap",
+      "inStock": 5
+    },
+    {
+      "id": 15,
+      "title": "shampoo 1",
+      "price": 97,
+      "imge": "shop/shampoo1.jpg",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 16,
+      "title": "shampoo 2",
+      "price": 121,
+      "imge": "shop/shampoo2.jpg",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 17,
+      "title": "shampoo 3",
+      "price": 111,
+      "imge": "shop/shampoo3.jpg",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 18,
+      "title": "shampoo 4",
+      "price": 171,
+      "imge": "shop/shampoo4.jpg",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 19,
+      "title": "shampoo 5",
+      "price": 100,
+      "imge": "shop/shampoo5.webp",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 20,
+      "title": "shampoo 6",
+      "price": 100,
+      "imge": "shop/shampoo6.webp",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 21,
+      "title": "shampoo 7",
+      "price": 100,
+      "imge": "shop/shampoo7.jpg",
+      "category": "shampoo",
+      "inStock": 5
+    },
+    {
+      "id": 22,
+      "title": "oil 1",
+      "price": 165,
+      "imge": "shop/oil1.jpg",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 23,
+      "title": "oil 2",
+      "price": 254,
+      "imge": "shop/oil2.jpeg",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 24,
+      "title": "oil 3",
+      "price": 100,
+      "imge": "shop/oil3.jpg",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 25,
+      "title": "oil 4",
+      "price": 761,
+      "imge": "shop/oil4.webp",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 26,
+      "title": "oil 5",
+      "price": 100,
+      "imge": "shop/oil5.jpg",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 27,
+      "title": "oil 6",
+      "price": 100,
+      "imge": "shop/oil6.jpg",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 28,
+      "title": "oil 7",
+      "price": 100,
+      "imge": "shop/oil7.webp",
+      "category": "oil",
+      "inStock": 5
+    },
+    {
+      "id": 29,
+      "title": "Mask 1",
+      "price": 100,
+      "imge": "shop/mask1.png",
+      "category": "maskScrub",
+      "inStock": 5
+    },
+    {
+      "id": 30,
+      "title": "Mask 2",
+      "price": 168,
+      "imge": "shop/mask2.webp",
+      "category": "maskScrub",
+      "inStock": 5
+    },
+    {
+      "id": 31,
+      "title": "Scrub 1",
+      "price": 187,
+      "imge": "shop/scrub1.webp",
+      "category": "maskScrub",
+      "inStock": 5
+    },
+    {
+      "id": 32,
+      "title": "Scrub 2",
+      "price": 172,
+      "imge": "shop/scrub2.webp",
+      "category": "maskScrub",
+      "inStock": 5
+    },
+    {
+      "id": 33,
+      "title": "Scrub 3",
+      "price": 861,
+      "imge": "shop/scrub3.webp",
+      "category": "maskScrub",
+      "inStock": 5
+    },
+    {
+      "title": "crem 9",
+      "price": "180",
+      "inStock": "10",
+      "imge": "Shop/crem9.png",
+      "category": "crem",
+      "id": 34
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "title": "123",
+      "discount": 5,
+      "count": 4
+    },
+    {
+      "id": 2,
+      "title": "456",
+      "discount": 15,
+      "count": 60
+    }
+  ],
+  "orders": [
+    {
+      "name": "hjghg",
+      "email": "sdf@sfgdfg",
+      "phone": "+374(54)56-46-46",
+      "country": "",
+      "city": "",
+      "street": "",
+      "house": "",
+      "flat": "",
+      "message": "",
+      "cosmetics": [
+        {
+          "id": 5,
+          "title": "crem 5",
+          "imge": "shop/crem5.jpg",
+          "count": 1,
+          "price": 50,
+          "category": "crem"
+        }
+      ],
+      "price": 50,
+      "userEmail": "vardanyan19_96@mail.ru",
+      "date": "2023-01-10T11:40:46.782Z",
+      "id": 1
+    }
+  ]
+}
